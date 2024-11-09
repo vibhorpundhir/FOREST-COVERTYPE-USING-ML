@@ -1,0 +1,101 @@
+Elevation,Aspect,Slope,Horizontal_Distance_To_Hydrology,Vertical_Distance_To_Hydrology,Horizontal_Distance_To_Roadways,Hillshade_9am,Hillshade_Noon,Hillshade_3pm,Horizontal_Distance_To_Fire_Points,Wilderness_Area,Soil_Type,Cover_Type
+2636,249,51,338,-4,46,207,215,80,153,Comanche Peak,Soil_Type_33,Lodgepole Pine
+3623,151,24,264,79,1625,173,0,108,3695,Comanche Peak,Soil_Type_38,Cottonwood/Willow
+1590,137,36,154,-201,1609,172,128,77,4873,Cache la Poudre,Soil_Type_4,Cottonwood/Willow
+2374,160,10,87,214,4998,144,46,117,4485,Cache la Poudre,Soil_Type_9,Cottonwood/Willow
+3821,0,48,384,5,4649,36,114,24,3789,Neota,Soil_Type_14,Spruce/Fir
+1657,220,48,318,-4,1344,170,14,1,4991,Comanche Peak,Soil_Type_38,Krummholz
+2005,32,42,42,191,1345,243,115,28,4636,Rawah,Soil_Type_12,Krummholz
+3887,302,47,365,-99,2760,184,81,162,4378,Comanche Peak,Soil_Type_25,Ponderosa Pine
+2907,316,39,299,134,1527,27,124,85,2300,Comanche Peak,Soil_Type_16,Lodgepole Pine
+3108,356,40,52,-81,116,153,26,49,1070,Neota,Soil_Type_39,Krummholz
+1693,102,1,166,-169,2819,136,230,228,2471,Neota,Soil_Type_15,Ponderosa Pine
+1999,112,25,334,-53,4284,83,161,28,3377,Rawah,Soil_Type_34,Aspen
+3895,293,13,13,-245,2789,95,92,39,956,Comanche Peak,Soil_Type_14,Spruce/Fir
+2755,235,6,153,-217,4922,239,54,84,2364,Rawah,Soil_Type_38,Ponderosa Pine
+2039,332,26,145,61,3036,138,49,131,3393,Comanche Peak,Soil_Type_17,Krummholz
+2962,159,0,46,-136,1578,125,86,139,2098,Comanche Peak,Soil_Type_32,Krummholz
+1527,11,53,60,37,1350,231,56,221,4538,Cache la Poudre,Soil_Type_1,Ponderosa Pine
+3468,1,3,52,155,2640,121,116,63,1610,Comanche Peak,Soil_Type_35,Aspen
+1949,48,16,229,-131,1529,88,173,71,4175,Comanche Peak,Soil_Type_34,Ponderosa Pine
+2508,78,42,105,278,2560,238,209,57,1848,Neota,Soil_Type_18,Aspen
+1681,305,57,11,194,4754,37,172,115,129,Cache la Poudre,Soil_Type_11,Aspen
+3196,172,27,170,278,4225,225,215,192,2605,Cache la Poudre,Soil_Type_17,Lodgepole Pine
+3735,248,46,302,-290,103,91,183,187,4889,Neota,Soil_Type_32,Ponderosa Pine
+3569,157,38,27,-33,2303,14,207,137,737,Cache la Poudre,Soil_Type_19,Krummholz
+1532,75,53,254,-136,3198,220,94,152,4269,Comanche Peak,Soil_Type_7,Douglas-fir
+2589,245,45,91,-2,2636,174,168,194,1982,Cache la Poudre,Soil_Type_6,Cottonwood/Willow
+3046,26,37,167,243,4739,57,2,172,4404,Neota,Soil_Type_12,Krummholz
+2988,75,21,398,203,1946,91,175,95,730,Neota,Soil_Type_31,Aspen
+3723,178,13,171,188,1060,246,30,43,4177,Rawah,Soil_Type_39,Spruce/Fir
+2076,82,44,230,123,125,196,75,145,466,Rawah,Soil_Type_28,Spruce/Fir
+1588,22,3,363,85,3633,251,247,123,860,Rawah,Soil_Type_14,Cottonwood/Willow
+2569,37,43,319,250,4997,48,120,92,2222,Rawah,Soil_Type_37,Lodgepole Pine
+2254,48,32,118,176,776,7,116,6,3283,Comanche Peak,Soil_Type_40,Cottonwood/Willow
+2450,291,13,382,41,2576,207,4,177,691,Neota,Soil_Type_37,Lodgepole Pine
+3435,132,19,317,-282,1558,137,151,135,81,Comanche Peak,Soil_Type_29,Lodgepole Pine
+1958,220,42,190,83,2024,81,40,219,3113,Neota,Soil_Type_32,Douglas-fir
+1713,167,22,381,16,1897,116,204,41,4536,Cache la Poudre,Soil_Type_5,Lodgepole Pine
+3776,81,2,162,-114,1009,250,110,173,549,Cache la Poudre,Soil_Type_1,Krummholz
+3013,175,27,167,-191,2624,171,253,117,987,Cache la Poudre,Soil_Type_4,Cottonwood/Willow
+2330,177,22,325,194,1265,247,99,54,3776,Neota,Soil_Type_25,Douglas-fir
+1583,168,31,163,70,2336,9,159,187,2819,Cache la Poudre,Soil_Type_5,Ponderosa Pine
+2176,130,36,121,-53,2606,230,242,153,195,Cache la Poudre,Soil_Type_4,Spruce/Fir
+1671,249,40,224,-13,1195,249,241,237,113,Rawah,Soil_Type_15,Lodgepole Pine
+2954,330,3,329,-97,2623,193,107,206,1831,Comanche Peak,Soil_Type_4,Ponderosa Pine
+2389,48,7,385,118,1952,104,56,116,4196,Cache la Poudre,Soil_Type_12,Cottonwood/Willow
+1692,349,39,310,-202,4648,0,107,159,1606,Comanche Peak,Soil_Type_6,Spruce/Fir
+3142,207,46,384,38,4935,135,128,26,4401,Rawah,Soil_Type_15,Lodgepole Pine
+1581,53,16,146,76,4681,178,213,54,1979,Neota,Soil_Type_20,Lodgepole Pine
+3287,187,27,280,-209,884,128,181,149,3353,Comanche Peak,Soil_Type_28,Aspen
+2137,261,28,398,183,1526,143,79,35,2608,Cache la Poudre,Soil_Type_1,Cottonwood/Willow
+1954,17,23,265,10,473,178,107,145,240,Comanche Peak,Soil_Type_36,Ponderosa Pine
+3071,71,34,59,289,3042,59,239,117,3470,Neota,Soil_Type_4,Aspen
+2174,269,28,285,15,637,85,150,187,411,Cache la Poudre,Soil_Type_3,Douglas-fir
+1700,322,58,128,292,4932,115,179,252,465,Neota,Soil_Type_22,Douglas-fir
+2426,322,21,203,-146,1349,189,154,13,3985,Comanche Peak,Soil_Type_39,Ponderosa Pine
+3008,191,43,150,206,2602,218,90,163,1025,Cache la Poudre,Soil_Type_5,Cottonwood/Willow
+3953,347,36,349,194,899,33,202,100,627,Comanche Peak,Soil_Type_9,Krummholz
+2397,227,59,331,-234,4052,182,132,68,173,Neota,Soil_Type_20,Spruce/Fir
+1807,86,54,128,200,4207,169,93,123,2844,Rawah,Soil_Type_15,Ponderosa Pine
+1850,66,12,396,-288,2236,200,199,11,2674,Comanche Peak,Soil_Type_39,Cottonwood/Willow
+3945,36,21,182,-56,3602,40,114,93,4070,Cache la Poudre,Soil_Type_26,Ponderosa Pine
+1917,248,0,321,-264,3847,239,237,213,3391,Comanche Peak,Soil_Type_32,Aspen
+1835,200,13,236,18,2104,117,251,21,60,Rawah,Soil_Type_10,Cottonwood/Willow
+1725,247,31,300,12,3633,143,10,253,4455,Neota,Soil_Type_12,Ponderosa Pine
+2493,292,9,350,130,2384,76,29,93,4840,Comanche Peak,Soil_Type_1,Douglas-fir
+3951,280,10,160,52,4629,234,0,238,4660,Comanche Peak,Soil_Type_6,Cottonwood/Willow
+2106,329,50,257,209,1028,10,49,90,1878,Cache la Poudre,Soil_Type_14,Cottonwood/Willow
+2374,209,34,72,-51,4815,247,110,243,4680,Neota,Soil_Type_9,Cottonwood/Willow
+3378,21,30,89,291,751,240,158,241,4141,Neota,Soil_Type_31,Douglas-fir
+3031,51,8,288,180,1984,251,196,151,1168,Comanche Peak,Soil_Type_22,Lodgepole Pine
+2758,127,33,78,202,4323,14,79,25,2105,Cache la Poudre,Soil_Type_28,Douglas-fir
+1605,249,30,287,-131,651,235,192,152,1735,Rawah,Soil_Type_28,Ponderosa Pine
+1667,197,20,126,246,2615,111,158,106,3699,Neota,Soil_Type_3,Spruce/Fir
+2247,163,31,7,-8,3248,173,140,242,3023,Neota,Soil_Type_26,Cottonwood/Willow
+2120,334,58,325,163,909,85,15,195,3480,Neota,Soil_Type_33,Aspen
+3498,89,53,178,172,3878,241,59,140,2715,Rawah,Soil_Type_16,Aspen
+3194,255,1,394,261,1314,234,59,0,302,Rawah,Soil_Type_10,Spruce/Fir
+3022,327,15,358,145,4083,68,8,48,1089,Rawah,Soil_Type_19,Spruce/Fir
+2542,2,21,151,-112,436,79,74,108,2208,Neota,Soil_Type_7,Cottonwood/Willow
+2132,186,3,313,284,1552,202,126,242,2910,Rawah,Soil_Type_12,Lodgepole Pine
+3116,259,57,52,238,406,210,211,9,4758,Cache la Poudre,Soil_Type_29,Lodgepole Pine
+2709,18,21,282,53,2179,122,218,118,214,Rawah,Soil_Type_28,Ponderosa Pine
+3064,292,4,271,217,4156,54,186,176,4251,Cache la Poudre,Soil_Type_36,Krummholz
+2934,3,21,263,30,4257,237,170,83,4126,Comanche Peak,Soil_Type_6,Cottonwood/Willow
+2131,234,29,26,237,2780,121,130,239,1939,Cache la Poudre,Soil_Type_17,Spruce/Fir
+3284,97,2,20,-75,4949,202,174,54,2375,Rawah,Soil_Type_11,Lodgepole Pine
+3068,253,18,105,-100,3694,142,83,239,1198,Cache la Poudre,Soil_Type_7,Douglas-fir
+3952,76,14,170,-81,3950,92,132,30,3512,Rawah,Soil_Type_34,Cottonwood/Willow
+2267,77,22,3,-11,4835,7,3,119,1636,Neota,Soil_Type_25,Lodgepole Pine
+1669,11,34,205,213,1130,197,173,17,2358,Neota,Soil_Type_12,Ponderosa Pine
+3519,288,6,85,282,3435,95,108,34,1202,Comanche Peak,Soil_Type_36,Cottonwood/Willow
+3427,66,57,100,127,2345,178,78,191,1774,Neota,Soil_Type_32,Spruce/Fir
+3505,211,56,107,-229,2005,76,216,133,830,Cache la Poudre,Soil_Type_11,Aspen
+2432,318,21,316,-266,4786,19,232,53,4809,Rawah,Soil_Type_14,Spruce/Fir
+3822,209,43,299,237,4019,222,153,236,4156,Comanche Peak,Soil_Type_38,Cottonwood/Willow
+2629,218,30,241,-17,4328,103,116,118,3783,Cache la Poudre,Soil_Type_22,Ponderosa Pine
+2732,44,34,60,200,268,40,73,234,4630,Comanche Peak,Soil_Type_40,Ponderosa Pine
+2165,65,12,353,-57,211,102,244,244,3537,Comanche Peak,Soil_Type_28,Douglas-fir
+2046,290,19,207,-23,3809,17,36,169,3866,Cache la Poudre,Soil_Type_11,Ponderosa Pine
+2838,282,0,136,253,4885,182,225,120,2101,Rawah,Soil_Type_38,Lodgepole Pine
